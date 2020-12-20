@@ -1,0 +1,10 @@
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\bin\Debug\Forditoprogram.exe.config
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\bin\Debug\Forditoprogram.exe
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\bin\Debug\Forditoprogram.pdb
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.csprojAssemblyReference.cache
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.Form1.resources
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.Properties.Resources.resources
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.csproj.GenerateResource.cache
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.csproj.CoreCompileInputs.cache
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.exe
+E:\Máté\Sulis\Fordítóprogramok\Forditoprogram\Forditoprogram\obj\Debug\Forditoprogram.pdb
